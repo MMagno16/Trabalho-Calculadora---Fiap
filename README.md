@@ -1,4 +1,4 @@
-## Trabalho-Calculadora---Fiap
+## Trabalho-Calculadora-Fiap
 
 # Tabuada do desafio 1. ✅
 
